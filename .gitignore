@@ -14,4 +14,5 @@ hs_err_pid*
 Servers/
 .metadata/
 .settings/
+JavaExampleCollections/.classpath
 RemoteSystemsTempFiles/
